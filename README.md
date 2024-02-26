@@ -3,7 +3,7 @@
 SYNTH DISCORD CLONER
 </h1>
 
-![image](https://i.imgur.com/ujKi2x5.png)
+![image](https://i.imgur.com/pXtVQ37.png)
 
 
 [Download Python 3.10.5](https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe)
